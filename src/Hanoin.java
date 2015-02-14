@@ -6,7 +6,7 @@ public void run() {
 		int h = readInt("Введіть кількість дисків:");
 		int n = readInt("Введіть номер голки:");
 		if (n == 1)
-			return;
+			return 0;
 		if (n == 2)
 		tow(h, 1, 2, 3);	
 		if (n == 3)

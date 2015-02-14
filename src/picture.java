@@ -24,7 +24,7 @@ public class picture extends GraphicsProgram{
 		eye2.setFilled(true);
 		mouth.setColor(Color.WHITE);
 		mouth.setFilled(true);
-		robot.setColor(Color.GRAY);
+		robot.setColor(Color.Red);
 		robot.setFilled(true);
 		add(robot);
 		add(eye1);
